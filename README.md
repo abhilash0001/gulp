@@ -4,25 +4,25 @@ This is base project generated using gulp-webapp-generator and has everything ne
 
 Modules/dependencies include:
 =============================
-NPM
-Bower
-Gulp
--- Autoprefixer
--- cache
--- clean
--- filter
--- jshint
--- imagemin
--- flatten
--- livereload
--- browser-sync
--- and more...
+NPM<br/>
+Bower<br/>
+Gulp<br/>
+-- Autoprefixer<br/>
+-- cache<br/>
+-- clean<br/>
+-- filter<br/>
+-- jshint<br/>
+-- imagemin<br/>
+-- flatten<br/>
+-- livereload<br/>
+-- browser-sync<br/>
+-- and more...<br/>
 
 Running locally
 ===============
 1. gulp watch
 
-Pre-requisites:
+<strong>Pre-requisites:</strong><br/>
 Make sure Node, Bower, Gulp are installed globally.
 
 Happy Coding!
